@@ -1,70 +1,34 @@
-# Getting Started with Create React App
+# Stock Portfolio Project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+其实 Excel 就能解决绝大多数的问题了，但还是有些瑕疵。还是随便写写，能写完就写，写不完就算了。毕竟 Excel 也够用了。(写不下去了)
 
-## Available Scripts
+## 功能
 
-In the project directory, you can run:
+本项目主要实现以下功能：
 
-### `npm start`
+### `Dashboard` (developing)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- 一个折线图展示收益，回报率？
+- 一个饼图展示持仓和现金比例？
+- 一个表格展示持仓？
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### `Cash` (developing)
 
-### `npm test`
+- 记录现金的流入流出。
+- 包括汇率的换算。
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### `Sold Positions` (developing)
 
-### `npm run build`
+- 记录卖出股票的收益。
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### `Dividend Recording` (developing)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- 记录分红。
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### `Crypto` (developing)
 
-### `npm run eject`
+- 记录加密货币的买入卖出。
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## The Project Status
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- 绝赞摸鱼开发中。。。。。。。。。。。。。。。。。
